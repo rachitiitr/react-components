@@ -1,0 +1,25 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "React Components built as a hobby",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachitiitr/react-components.git"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "javascript",
+    "react-components"
+  ],
+  "author": "Rachit Jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachitiitr/react-components/issues"
+  },
+  "homepage": "https://github.com/rachitiitr/react-components#readme"
+}
