@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/rachitiitr/react-components/issues"
   },
-  "homepage": "https://rachitiitr.github.io/react-components",
+  "homepage": "https://rachitiitr.github.io/react-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
